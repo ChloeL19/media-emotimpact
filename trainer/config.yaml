@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Sep 21 19:40:42 2018
+
+@author: chloeloughridge
+"""
+
+trainingInput:
+    pythonVersion: "3.5"
+    #scaleTier: BASIC_GPU
+    # 'large_model' for bigger model with lots of data
+     masterType: complex_model_l
